@@ -1,6 +1,6 @@
 # frozen_string_literal: true
 
-require_relative 'roman'
+require_relative '../lib/roman'
 
 describe Roman do
   context 'from_arabic()' do
